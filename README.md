@@ -1,10 +1,10 @@
-# 💼 Job Share
+# Job Share
 
 **Job Share** is a collaborative platform designed to help users share and discover job opportunities. Built with a focus on *collaboration* rather than *competition*, this application allows users to post jobs, filter opportunities, and connect with others in meaningful ways.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Job Posting**: Submit job opportunities with details like title, company, location, type, and tags.
 - **Job Filtering**: Filter jobs by type, location, and tags to find the most relevant opportunities.
@@ -15,14 +15,14 @@
 
 ---
 
-## 🛠️ Tech Stack
+###  Tech Stack
 
 - **Frontend**: React with Next.js
 - **Styling**: Tailwind CSS
 - **Backend**: Node.js using Next.js API routes
 - **Database**: MongoDB
 
-### 📚 Libraries & Tools
+###  Libraries & Tools
 
 - [`axios`](https://github.com/axios/axios) – For HTTP requests  
 - [`mongoose`](https://mongoosejs.com/) – For MongoDB data modeling  
@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
